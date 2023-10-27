@@ -1,5 +1,10 @@
 ![Banner](https://github.com/MattWillians/Campo-Minado-Swing/assets/102035342/e76946b3-53b0-4bde-9c60-b65fcd5a4e9b#vitrinedev)
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Calculadora Swing**
+| :label: Tecnologias | java, Swing UI, Observers
+
 # Campo-Minado-Swing
 
 O Campo Minado é um clássico jogo de computador que foi popularizado pela Microsoft no sistema operacional Windows. O objetivo principal do jogo é desvendar um campo repleto de minas terrestres, revelando as células sem minas e evitando as que contêm minas. O jogo é um quebra-cabeça lógico que requer habilidades de dedução e um pouco de sorte para ser resolvido com sucesso.
