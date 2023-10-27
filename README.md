@@ -2,7 +2,7 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Calculadora Swing**
+| :sparkles: Nome        | **Campo Minado Swing**
 | :label: Tecnologias | java, Swing UI, Observers
 
 # Campo-Minado-Swing
